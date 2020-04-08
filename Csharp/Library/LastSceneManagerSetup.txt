@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/chapter1_type_parameter.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
