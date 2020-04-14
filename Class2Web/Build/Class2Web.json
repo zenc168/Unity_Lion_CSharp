@@ -1,0 +1,16 @@
+{
+"companyName": "Zenc168",
+"productName": "Chapter2 Practice",
+"productVersion": "0.1",
+"dataUrl": "Class2Web.data.unityweb",
+"wasmCodeUrl": "Class2Web.wasm.code.unityweb",
+"wasmFrameworkUrl": "Class2Web.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.3f1"
+}

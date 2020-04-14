@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/chapter2_logic.unity
+    guid: 10ece5bdc1c8a1447aa8f6e3d5209434
   m_configObjects: {}
